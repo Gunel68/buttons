@@ -1,0 +1,31 @@
+.text{
+    color:green;
+    margin-left: 0%;
+    
+}
+div{
+    margin-left: 10%;
+    margin-top: 5%;
+    }
+    .warning{
+        color: brown;
+        margin-left: 0%;
+        margin-top: -14%;
+
+
+    }
+    .button1{
+        background-color: greenyellow;
+    }
+    .hint{
+        background-color: azure;
+        display: inline;
+        margin-left:0%;
+        background-color: aqua;
+    }
+    .button3{
+        background-color: azure;
+    }
+    .button2{
+        background-color: turquoise;
+    }
